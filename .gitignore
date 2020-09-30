@@ -25,3 +25,5 @@ CMakeCache.txt
 Makefile
 version.h
 version
+#build directory 
+src/build/
